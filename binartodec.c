@@ -1,4 +1,5 @@
 #include <stdio.h>
+//importing math library for power function
 #include <math.h>
 void main()
 {
