@@ -13,6 +13,7 @@ void main()
         n = n/10;
         i++;
     }
+    //printing result
     printf("%d ",result);
           
 }
